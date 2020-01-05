@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+gems:
+  - jekyll-feed
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
